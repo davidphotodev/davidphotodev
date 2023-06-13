@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @davidphotodev
-- 👀 Soy apasionado programador apasionado por el frontend y todo lo que ello conlleva, ya tengo a la fecha de hoy por lo menos 4 años de 
-experiencia con Vuejs. Sin embargo también tengo conocimientos de PHP, y Laravel. También en el uso de Bases de datos relacionales...
-- 🌱 Actualmente sigo en aprendizaje contínuo para no quedarme estancado en un solo sitio, si estás leyendo esto, bien sabemos que el mundo
-de la programación avanza a niveles estratófericos.
-- 💞️ Estoy interesado en colaborar con equipos de trabajo donde se pueda aprender y crecer, soy conciente de que no siempre lo sabemos todo
-pero soy el tipo de personas que le gusta aprender y expandirse a nuevas ideas.
+Hi, soy David Adan, un apasionado desarrollador frontend con 7 años de experiencia en la industria. Durante mi carrera, he trabajado con tecnologías de vanguardia como JavaScript, Vue.js y Angular con TypeScript, RXJS, WebSocket, y Browser Notifications, entre otros.
 
-<!---
-davidphotodev/davidphotodev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mi enfoque principal ha sido en la creación de experiencias de usuario excepcionales y funcionales, buscando siempre la manera de mejorar y optimizar la interacción entre los usuarios y las aplicaciones. Me entusiasma trabajar en proyectos desafiantes que me permitan utilizar mis habilidades técnicas y creativas para impulsar soluciones innovadoras.
+
+Uno de los aspectos que más valoro en mi trabajo es la colaboración en equipo. Disfruto trabajando en un entorno colaborativo, donde podemos intercambiar ideas y aprender unos de otros. Creo firmemente en la importancia de la comunicación abierta y efectiva para alcanzar nuestros objetivos comunes.
+
+Mi pasión por el desarrollo web no se detiene en lo que ya sé, siempre estoy dispuesto a aprender nuevas tecnologías y mantenerme actualizado en un entorno en constante evolución. Me encanta enfrentar nuevos desafíos y abordarlos con entusiasmo y una actitud de aprendizaje constante.
